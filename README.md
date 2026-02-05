@@ -3,7 +3,6 @@
 ## Overview
 This project implements an end-to-end traffic stop analysis system for police check post operations. It focuses on cleaning traffic stop data, storing it in a MySQL database, analyzing it using SQL queries, and visualizing insights through a Streamlit dashboard.
 
-The project is implementation-focused and created for placement evaluation.
 
 ## Technologies Used
 - Python
@@ -26,3 +25,4 @@ python -m streamlit run dashboard.py --server.port 8502
 
 ## Outcome
 The project identifies repeat vehicle stops, frequently searched vehicles, and arrest patterns. These insights support data-driven decision-making and improve the efficiency of police check post monitoring.
+
