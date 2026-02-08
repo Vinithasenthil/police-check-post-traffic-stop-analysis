@@ -92,12 +92,15 @@ The project identifies:
 
  -These insights support data-driven decision-making and help improve the efficiency of police check post monitoring
 
+https://1drv.ms/b/c/60435e9ed58c930f/IQBnxsn0LGm5SLOgB4Zzrx4pAXSZ72Z2moMq7qgWlBgTI-0?e=FPfvhR
+
  
  
  
 
 
  
+
 
 
 
