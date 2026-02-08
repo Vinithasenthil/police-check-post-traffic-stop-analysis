@@ -92,11 +92,12 @@ The project identifies:
 
  -These insights support data-driven decision-making and help improve the efficiency of police check post monitoring
 
- "C:\Users\Vinitha\OneDrive\Desktop\secure check\streamlit dashboard.pdf"
+ 
  
  
 
 
  
+
 
 
