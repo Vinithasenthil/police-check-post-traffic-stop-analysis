@@ -1,3 +1,4 @@
+use securecheck_v2;
 -- Query 1
 -- Find the top 10 vehicles with the highest number of traffic stops
 SELECT vehicle_number,
