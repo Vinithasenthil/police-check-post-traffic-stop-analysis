@@ -89,7 +89,9 @@ The project identifies:
  -Frequently searched vehicles
 
  -Arrest trends across countries and age groups
-https://github.com/Vinithasenthil/police-check-post-traffic-stop-analysis/blob/main/streamlit%20dashboard.pdf
+ 
+ # project documentation
+ https://github.com/Vinithasenthil/police-check-post-traffic-stop-analysis/blob/main/streamlit%20dashboard.pdf
  
 
 
@@ -99,6 +101,7 @@ https://github.com/Vinithasenthil/police-check-post-traffic-stop-analysis/blob/m
 
 
  
+
 
 
 
