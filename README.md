@@ -90,5 +90,13 @@ The project identifies:
 
  -Arrest trends across countries and age groups
 
- -These insights support data-driven decision-making and help improve the efficiency of police check post monitoring.
+ -These insights support data-driven decision-making and help improve the efficiency of police check post monitoring
+
+ "C:\Users\Vinitha\OneDrive\Desktop\secure check\streamlit dashboard.pdf"
+ 
+ 
+
+
+ 
+
 
