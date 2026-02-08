@@ -89,10 +89,7 @@ The project identifies:
  -Frequently searched vehicles
 
  -Arrest trends across countries and age groups
-
- -These insights support data-driven decision-making and help improve the efficiency of police check post monitoring
- 📄 [Project Report (PDF)](https://github.com/Vinithasenthil/police-check-post-traffic-stop-analysis/blob/main/streamlit%20dashboard-11.pdf)
-
+https://github.com/Vinithasenthil/police-check-post-traffic-stop-analysis/blob/main/streamlit%20dashboard.pdf
  
 
 
@@ -102,6 +99,7 @@ The project identifies:
 
 
  
+
 
 
 
