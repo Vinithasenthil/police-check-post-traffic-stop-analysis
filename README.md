@@ -103,7 +103,7 @@ Results are displayed instantly in tabular form.
 
 ## How to Run the Dashboard
 
-```bash
+
 python -m streamlit run dashboard.py --server.port 8502
 
 After running the command
@@ -115,6 +115,7 @@ URL: http://localhost:8502
 ## Project Documentation
 
 https://github.com/Vinithasenthil/police-check-post-traffic-stop-analysis/blob/main/streamlit%20dashboard.pdf
+
 
 
 
